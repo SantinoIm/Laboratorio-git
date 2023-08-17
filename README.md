@@ -24,16 +24,16 @@ Para realizar esto, se siguen una serie de pasos para que los cambios que un col
 
 ![Git add, commit, push](/Images/gittutorial.png)
 
-**Git add -A:** En donde se suben los cambios a una zona de revisión para preparar los cambios realizados.
-**Git commit -m "Descripción del cambio":** En este paso se  realizan los cambios en el repositorio local.
-**Git push origin main:** Se reflejan los cambios realizados en el repositorio local en el remoto (Github).
-**Nota:** ¨*Entre cada uno de estos pasos debemos activar el comando **git status** para revisar que todo los cambios que estemos haciendo estén ejecutándose correctamente*
+- **Git add -A:** En donde se suben los cambios a una zona de revisión para preparar los cambios realizados.
+- **Git commit -m "Descripción del cambio":** En este paso se  realizan los cambios en el repositorio local.
+- **Git push origin main:** Se reflejan los cambios realizados en el repositorio local en el remoto (Github).
+- **Nota:** ¨*Entre cada uno de estos pasos debemos activar el comando **git status** para revisar que todo los cambios que estemos haciendo estén ejecutándose correctamente*
 Para realizar este mismo proceso pero de manera inversa (reflejar cambios hechos en el repositorio remoto al local) hacemos:
-**Git pull:** Se mueven y reflejan los cambios hechos en el repositorio remoto al repositorio local.
+- **Git pull:** Se mueven y reflejan los cambios hechos en el repositorio remoto al repositorio local.
 
 
 ##Referencias
 
-Tecnológico de Monterrey. (s.f) Laboratorio git. Recuperado de https://experiencia21.tec.mx/courses/388953/files/150007184?module_item_id=25013799
-Markdown Guide. (s.f) Markdown Cheat Sheet. Recuperado de https://www.markdownguide.org/cheat-sheet/
+- Tecnológico de Monterrey. (s.f) Laboratorio git. Recuperado de https://experiencia21.tec.mx/courses/388953/files/150007184?module_item_id=25013799
+- Markdown Guide. (s.f) Markdown Cheat Sheet. Recuperado de https://www.markdownguide.org/cheat-sheet/
 
