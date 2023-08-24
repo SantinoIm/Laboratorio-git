@@ -5,5 +5,21 @@ print(a-b)
 Print(a*b)
 
 
+
 print(a//b)
 H
+
+print("hola buenas tardes")
+
+
+
+
+
+
+
+
+
+
+
+print("iphone18")
+
